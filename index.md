@@ -7,7 +7,7 @@ a     {color: #FFFFFF; text-decoration: none;}
 </style>
 </head>
 <body>
-microtonal and low frequency audio
+the high science experience
 <br><br><br><br><br><br>
 <audio controls>
 <source src="/Outer_Limit_mix1_c2018_HiSciX.mp3" type="audio/mp3">
