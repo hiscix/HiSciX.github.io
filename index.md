@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <style>
@@ -6,6 +7,7 @@ audio {width: 100%;}
 a     {color: #FFFFFF; text-decoration: none;}
 </style>
 </head>
+<body>
 microtonal and low frequency audio
 <br><br><br><br><br><br>
 <audio controls>
@@ -14,6 +16,7 @@ microtonal and low frequency audio
 <br><br><br><br><br><br>
 <a href="mailto:hiscix@gmail.com<">hiscix@gmail.com</a>
 <br>
-+1 202 374 1515
 <br><br>
 &#169;2018
+</body>
+</html>
