@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <style>
@@ -19,4 +18,3 @@ microtonal and low frequency audio
 <br><br>
 &#169;2018
 </body>
-</html>
